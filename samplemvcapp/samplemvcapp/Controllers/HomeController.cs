@@ -10,7 +10,7 @@ namespace samplemvcapp.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Sample Home Page";
+            ViewBag.Title = "Sample Home Page test branches";
 
             return View();
         }
